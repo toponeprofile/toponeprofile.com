@@ -1,5 +1,7 @@
 #!/bin/bash
 
+./generate.sh
+
 # Set user  
 git config --local credential.helper ""
 git config --local user.name "toponeprofile"

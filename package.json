@@ -3,5 +3,11 @@
   "version": "1.0.0",
   "repository": "https://github.com/toponeprofile/toponeprofile.com.git",
   "author": "toponeprofile <toponeprofile@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "glob": "^7.1.7",
+    "path": "^0.12.7",
+    "sharp": "^0.29.0"
+  }
 }
